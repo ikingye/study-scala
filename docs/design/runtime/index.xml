@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3.3 运行时 on Scala 学习笔记</title>
-    <link>https://ikingye.github.io/study-scala/docs/design/runtime/</link>
+    <link>https://kingye.me/study-scala/docs/design/runtime/</link>
     <description>Recent content in 3.3 运行时 on Scala 学习笔记</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ikingye.github.io/study-scala/docs/design/runtime/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kingye.me/study-scala/docs/design/runtime/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
