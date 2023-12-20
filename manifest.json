@@ -1,14 +1,14 @@
 {
   "name": "Scala 学习笔记",
   "short_name": "Scala 学习笔记",
-  "start_url": "/study-scala/",
-  "scope": "/study-scala/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/study-scala/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
