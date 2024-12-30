@@ -1,32 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>第四部分 附录 on Scala 学习笔记</title>
-    <link>https://kingye.me/study-scala/docs/appendix/</link>
-    <description>Recent content in 第四部分 附录 on Scala 学习笔记</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://kingye.me/study-scala/docs/appendix/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>4.1 教程</title>
-      <link>https://kingye.me/study-scala/docs/appendix/tutorial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kingye.me/study-scala/docs/appendix/tutorial/</guid>
-      <description>&lt;h1 id=&#34;教程&#34;&gt;&#xA;  教程&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e6%95%99%e7%a8%8b&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;基础&#34;&gt;&#xA;  基础&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%9f%ba%e7%a1%80&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;进阶&#34;&gt;&#xA;  进阶&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e8%bf%9b%e9%98%b6&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>4.2 面试题</title>
-      <link>https://kingye.me/study-scala/docs/appendix/interview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kingye.me/study-scala/docs/appendix/interview/</guid>
-      <description>&lt;h1 id=&#34;面试题&#34;&gt;&#xA;  面试题&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e9%9d%a2%e8%af%95%e9%a2%98&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;基础题&#34;&gt;&#xA;  基础题&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%9f%ba%e7%a1%80%e9%a2%98&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;进阶题&#34;&gt;&#xA;  进阶题&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e8%bf%9b%e9%98%b6%e9%a2%98&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>4.3 关注项目</title>
-      <link>https://kingye.me/study-scala/docs/appendix/attention/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kingye.me/study-scala/docs/appendix/attention/</guid>
-      <description>&lt;h1 id=&#34;关注项目&#34;&gt;&#xA;  关注项目&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%85%b3%e6%b3%a8%e9%a1%b9%e7%9b%ae&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;代表项目&#34;&gt;&#xA;  代表项目&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e4%bb%a3%e8%a1%a8%e9%a1%b9%e7%9b%ae&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;推荐练手项目&#34;&gt;&#xA;  推荐练手项目&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e6%8e%a8%e8%8d%90%e7%bb%83%e6%89%8b%e9%a1%b9%e7%9b%ae&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>第四部分 附录 on Scala 学习笔记</title><link>https://kingye.me/study-scala/docs/appendix/</link><description>Recent content in 第四部分 附录 on Scala 学习笔记</description><generator>Hugo</generator><language>en</language><atom:link href="https://kingye.me/study-scala/docs/appendix/index.xml" rel="self" type="application/rss+xml"/><item><title>4.1 教程</title><link>https://kingye.me/study-scala/docs/appendix/tutorial/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kingye.me/study-scala/docs/appendix/tutorial/</guid><description>&lt;h1 id="教程">
+ 教程
+ &lt;a class="anchor" href="#%e6%95%99%e7%a8%8b">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="基础">
+ 基础
+ &lt;a class="anchor" href="#%e5%9f%ba%e7%a1%80">#&lt;/a>
+&lt;/h2>
+&lt;hr>
+&lt;h2 id="进阶">
+ 进阶
+ &lt;a class="anchor" href="#%e8%bf%9b%e9%98%b6">#&lt;/a>
+&lt;/h2></description></item><item><title>4.2 面试题</title><link>https://kingye.me/study-scala/docs/appendix/interview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kingye.me/study-scala/docs/appendix/interview/</guid><description>&lt;h1 id="面试题">
+ 面试题
+ &lt;a class="anchor" href="#%e9%9d%a2%e8%af%95%e9%a2%98">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="基础题">
+ 基础题
+ &lt;a class="anchor" href="#%e5%9f%ba%e7%a1%80%e9%a2%98">#&lt;/a>
+&lt;/h2>
+&lt;h2 id="进阶题">
+ 进阶题
+ &lt;a class="anchor" href="#%e8%bf%9b%e9%98%b6%e9%a2%98">#&lt;/a>
+&lt;/h2></description></item><item><title>4.3 关注项目</title><link>https://kingye.me/study-scala/docs/appendix/attention/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kingye.me/study-scala/docs/appendix/attention/</guid><description>&lt;h1 id="关注项目">
+ 关注项目
+ &lt;a class="anchor" href="#%e5%85%b3%e6%b3%a8%e9%a1%b9%e7%9b%ae">#&lt;/a>
+&lt;/h1>
+&lt;h2 id="代表项目">
+ 代表项目
+ &lt;a class="anchor" href="#%e4%bb%a3%e8%a1%a8%e9%a1%b9%e7%9b%ae">#&lt;/a>
+&lt;/h2>
+&lt;h2 id="推荐练手项目">
+ 推荐练手项目
+ &lt;a class="anchor" href="#%e6%8e%a8%e8%8d%90%e7%bb%83%e6%89%8b%e9%a1%b9%e7%9b%ae">#&lt;/a>
+&lt;/h2></description></item></channel></rss>
